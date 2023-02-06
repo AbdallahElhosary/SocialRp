@@ -150,7 +150,7 @@ body {
 }
 
 .bliv {
-  background-image: url(/imgs/black-bg.jpg);
+  background-image: url(../imgs/black-bg.jpg);
   background-size: cover;
   position: relative;
 }
